@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
         <div class="col-md-7 mrgnbtm">
-        <h1>Add Plane</h1>
+        <h1 class = "subtitle">Add Plane</h1>
             <form>
                 <div class="row">
                     <div class="form-group col-md-6">
