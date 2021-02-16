@@ -1,0 +1,12 @@
+body {
+  background: #0f0f0f;
+}
+h1 {
+  font: 18px/24px "verdana-bold", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+h1 span {
+  border-bottom: 3px solid #11abb0;
+  padding-bottom: 6px;
+}
